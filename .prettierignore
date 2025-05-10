@@ -1,0 +1,16 @@
+# Ignore the modules
+node_modules
+
+# Ignore the build output
+dist
+
+# Ignore the git files
+.git
+.gitignore
+
+# Ignore the npm files
+package-lock.json
+package.json
+
+# Ignore the markdown files
+*.md
